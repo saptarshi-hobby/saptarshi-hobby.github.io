@@ -90,7 +90,7 @@ div.complements{ position:fixed;
 							font-size:150%;
 							margin:50px;
 							
-				 overflow:scroll;}
+				 overflow:auto;}
 div.topleft{ position:absolute;
              left:30px;
 			 right:50%;
